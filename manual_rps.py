@@ -5,5 +5,5 @@ def get_computer_choice():
 
 def get_user_choice():
     user_input = input('Choose between "Rock", "Paper", "Scissors"')
-
+    return user_input
     
